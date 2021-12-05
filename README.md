@@ -19,13 +19,14 @@ This project is an anonymous posting & survey service that is completely unsafe.
 - Node 14.x or latest
 - [yarn](https://yarnpkg.com/getting-started)
 
+## Development
 
 ```sh
 yarn
 
 &
 
-yarn dev
+yarn dev 
 ```
 
 ## Current state
@@ -68,6 +69,8 @@ yarn test:e2e
 --- 
 
 ## Assignment
+
+Clone this repository & build API.
 
 Features that should be developed
 
