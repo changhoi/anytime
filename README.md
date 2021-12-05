@@ -199,3 +199,4 @@ You can change some tech stacks but you should,
   - Every API should have >= 3 test cases.
   - Don't make each DTO field a test case.
     - ex. `Error with invalid field1`, `Error with invalid field2` ...  
+  - Find out error situation as much you can.
